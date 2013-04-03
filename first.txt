@@ -1,5 +1,7 @@
-git config --global user.email "new@emailaddress.com" - you can set an email that can be used globally
+config --global user.email "new@emailaddress.com" - you can set an email that can be used globally
 
 git config --global user.name - "New Name" - will set a global name
 
 Will be able to edit your global settings
+
+Working on the file further!
